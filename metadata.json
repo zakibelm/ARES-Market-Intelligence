@@ -1,0 +1,8 @@
+{
+  "name": "ARES Market Intelligence",
+  "description": "A production-grade B2B SaaS platform for real estate professionals, featuring an 11-agent orchestration system for market intelligence, legal compliance, and automated growth.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
